@@ -1,7 +1,7 @@
 # pokemon autoencoder
 Training a Vanilla AutoeEncoder to encode and decode pokemons.
 
-[Dataset](https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types) is available in kaggle. Download the dataset, unzip it to the same folder. Unzipped folder, preprocessing.ipynb and Vanilla AutoEncoder.ipynb should be in the same folder
+[Dataset](https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types) is available in kaggle. Download the dataset and unzip it. Unzipped folder, preprocessing.ipynb and Vanilla AutoEncoder.ipynb should be in the same folder
 
 In this dataset, there are 809 pokemons, 789 of them will be used in training, 20 of them will be used to test (eye test) the results.
 
