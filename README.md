@@ -29,6 +29,8 @@ Then, run the Vanilla AutoEncoder.ipynb to train the network and reconstruct pok
 
 ### Results after epochs
 
+Images on the left are input images. Images on the right are output images.
+
 ![/epochImgs/epoch1.png](/epochImgs/epoch1.png)  |  ![/epochImgs/epoch5.png](/epochImgs/epoch5.png)
 :-------------------------:|:-------------------------:
 Reconstructing a random pokemon after epoch 1            |  Reconstructing a random pokemon after epoch 5
@@ -59,6 +61,7 @@ Around epoch 45, network starts to learn reconstructing colors. However, until e
 
 
 ## Testing on unseen pokemons
+Images on the left are input images. Images on the right are output images.
 
 ![/resultImgs/unseen1.png](/resultImgs/unseen1.png)  |  ![/resultImgs/unseen2.png](/resultImgs/unseen2.png)
 :-------------------------:|:-------------------------:
